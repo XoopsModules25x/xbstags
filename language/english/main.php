@@ -7,18 +7,21 @@
  *
  * @package       TAGS
  * @subpackage    Definitions
- * @author        Ashley Kitson http://xoobs.net
- * @copyright (c) 2006 Ashley Kitson, Great Britain
+ * @copyright     Ashley Kitson
+ * @copyright     XOOPS Project https://xoops.org/
+ * @license       GNU GPL 2 or later (http://www.gnu.org/licenses/gpl-2.0.html)
+ * @author        Ashley Kitson http://akitson.bbcb.co.uk
+ * @author        XOOPS Development Team
  */
 
 /**#@+
  * Language specific definitions
  */
 
-define('_MD_TAGS_ERR_1', 'No data for Page object indexed by %s');
-define('_MD_TAGS_ERR_2', 'Unable to instantiate Page %s');
+define('_MD_XBSTAGS_ERR_1', 'No data for Page object indexed by %s');
+define('_MD_XBSTAGS_ERR_2', 'Unable to instantiate Page %s');
 
-define('_MD_TAGS_SAVEPAGE', 'Metatags Data Record Saved');
-define('_MD_TAGS_DELPAGE', 'Metatags Data Record Deleted');
-define('_MD_TAGS_ERRDEL', 'Metatags Data Record Deletion failed - invalid page index');
-define('_MD_TAGS_ERRNOMODS', 'No new modules to add');
+define('_MD_XBSTAGS_SAVEPAGE', 'Metatags Data Record Saved');
+define('_MD_XBSTAGS_DELPAGE', 'Metatags Data Record Deleted');
+define('_MD_XBSTAGS_ERRDEL', 'Metatags Data Record Deletion failed - invalid page index');
+define('_MD_XBSTAGS_ERRNOMODS', 'No new modules to add');
